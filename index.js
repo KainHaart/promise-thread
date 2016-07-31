@@ -14,6 +14,9 @@ module.exports = function(methodsMap, opt_options) {
 	});
 
 	// TODO: Add ._ property fo controlling methods
+	// TODO: Automate test
+	// TODO: add optional delay between calls
+	// TODO: use in ttrss api
 
 	return thread;
 };

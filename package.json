@@ -1,0 +1,15 @@
+{
+  "name": "promise-thread",
+  "version": "0.1.0",
+  "description": "Tool for stacking async functions for subsequent execution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promise",
+    "queue"
+  ],
+  "author": "Sergei Kulikov <dev@mail.kain-haat.info>",
+  "license": "ISC"
+}
